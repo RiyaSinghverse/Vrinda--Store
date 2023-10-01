@@ -20,8 +20,7 @@
 -  At Last I merged all pivot charts into one dashboard and applied slicers so that users can interact with the dashboard and view it in different ways to get results.
 
 ## Dashboard
-https://1drv.ms/x/s!ApuqhrKa9RSXgU6Z7d8zO8Biiupi
-
+https://1drv.ms/x/s!ApuqhrKa9RSXgU9zOixkinLPG3S0
 ## Project Insight
 -  Women customers are more likely to buy products compared to men (~65%).
 -  The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
